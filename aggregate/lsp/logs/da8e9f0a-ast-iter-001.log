@@ -1,0 +1,7 @@
+[2026-10-21T22:18:03Z] === AST ITERATION 1 START | repo=executablebooks/myst-parser.example-project sha=da8e9f0a ===
+[2026-10-21T22:18:03Z] [iter=1] PHASE START: ast repo=executablebooks/myst-parser.example-project sha=da8e9f0a
+[2026-10-21T22:18:03Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T22:18:04Z] [iter=1] AST chunks built count=1 triples=1955
+[2026-10-21T22:18:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/da8e9f0a08df098f405c824334eb6dff12ff53a2/.complete
+[2026-10-21T22:18:04Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-21T22:18:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
